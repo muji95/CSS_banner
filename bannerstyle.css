@@ -1,0 +1,149 @@
+.banner-bg {
+  background-color: darkblue;
+  padding: 10%;
+}
+.head {
+  margin: 0 25%;
+  padding-bottom: 100px;
+}
+.logo {
+  position: relative;
+  margin: auto;
+}
+.logo h1 {
+  color: tomato;
+  font-size: 3rem;
+  position: absolute;
+  text-transform: uppercase;
+  left: 100px;
+}
+.logo p {
+  color: white;
+  text-transform: uppercase;
+  position: absolute;
+  font-weight: bold;
+  top: 60px;
+  left: 110px;
+}
+.border {
+  background-color: transparent;
+  border-radius: 50%;
+  border: 3px solid white;
+  height: 85px;
+  width: 85px;
+  position: absolute;
+}
+.bg {
+  background-color: rgb(43, 149, 190);
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  padding: 3%;
+  border-radius: 50%;
+  top: 8px;
+  left: 7px;
+  position: absolute;
+}
+.icons {
+  position: absolute;
+  top: 25px;
+  left: 25px;
+}
+.divider {
+  padding-top: 30px;
+  width: auto;
+}
+.down {
+  padding-top: 100px;
+}
+table,
+tr,
+td {
+  border-collapse: collapse;
+}
+td {
+  width: 50%;
+}
+.row1 {
+  background-color: rgb(230, 161, 13);
+  color: white;
+  text-align: center;
+  line-height: 1.5;
+  padding: 5%;
+}
+.col1 {
+  background-color: teal;
+  text-align: center;
+  color: white;
+  line-height: 1.5;
+  padding: 5%;
+}
+.red {
+  background-color: rgb(201, 43, 15);
+  text-align: center;
+  color: white;
+  line-height: 1.5;
+  padding: 5%;
+}
+.row2 {
+  text-align: left;
+  display: inline;
+  width: 100%;
+}
+.separate {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 20px;
+  padding: 5%;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  text-align: center;
+  gap: 5px;
+}
+.inline {
+  display: inline;
+}
+.row3 {
+  background-color: rgb(80, 80, 209);
+  text-align: left;
+  color: white;
+  line-height: 1.5;
+  padding: 5%;
+}
+.yellow {
+  background-color: rgb(219, 133, 3);
+  color: white;
+  width: 100%;
+  text-align: center;
+  line-height: 1.5;
+  padding: 5%;
+}
+.row5 {
+  background-color: teal;
+  text-align: left;
+  color: white;
+  line-height: 1.5;
+  padding: 5%;
+}
+.tv-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 10px;
+}
+.adjust {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  padding: 5%;
+}
+.adjust-part {
+  display: grid;
+}
+.row7 {
+  background-color: teal;
+  text-align: center;
+  color: white;
+  line-height: 1.5;
+  padding: 5%;
+}
